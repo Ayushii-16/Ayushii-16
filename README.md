@@ -69,5 +69,5 @@ I'm always interested in collaborating on backend development, AI-powered applic
 ## 📫 Connect with Me
 
 - LinkedIn: https://linkedin.com/in/ayushi-maravi
-- GitHub: https://github.com/Ayushi-16
+- GitHub: https://github.com/Ayushii-16
 - Email: ayushimaravi375@gmail.com

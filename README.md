@@ -1,6 +1,6 @@
 # Hi, I'm Ayushi Maravi 👋
 
-### Java Backend Developer | Building AI-Powered Backend Applications
+### Java Backend Developer | Spring Boot • Spring AI • PostgreSQL
 
 I am a Computer Science student passionate about backend development and solving real-world problems through scalable software solutions. My primary focus is on Java, Spring Boot, Spring AI, PostgreSQL, and REST APIs. I enjoy building applications that combine modern backend engineering with AI-powered capabilities.
 
@@ -56,14 +56,13 @@ Role-based attendance platform with secure authentication and efficient attendan
 
 - Advanced Spring Boot
 - Microservices
-- Data Structures & Algorithms
 - Cloud Deployment
 
 ---
 
-## 🎯 Career Objective
+## 🤝 Open to Collaborate
 
-I am actively working toward becoming a Backend Software Engineer by building production-ready applications and continuously improving my problem-solving skills.
+I'm always interested in collaborating on backend development, AI-powered applications, and open-source projects.
 
 ---
 
